@@ -1,5 +1,5 @@
 #!/bin/env python
-#-*- coding:utf-8 -*-
+# encoding: utf-8
 
 import sys, urllib2, base64, json
 
